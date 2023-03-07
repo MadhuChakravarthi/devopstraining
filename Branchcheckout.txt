@@ -1,0 +1,9 @@
+terminal > git clone 
+git checkout master 
+git pull
+git checkout <branch>
+git pull !-- you are into branch 
+!-- do all changes git diff : see changes 
+git add -A
+git commit -m "<message>"
+git push
