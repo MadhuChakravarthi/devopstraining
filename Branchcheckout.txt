@@ -7,3 +7,5 @@ git pull !-- you are into branch
 git add -A
 git commit -m "<message>"
 git push
+------------------------------------------------------------------
+Added
